@@ -1,2 +1,2 @@
-# AmrinDange-Prodigy-task12
+# AmrinDange-Prodigy-task2
 Internship task 2
